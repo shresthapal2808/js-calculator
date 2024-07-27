@@ -17,9 +17,6 @@ The **Basic Arithmetic Calculator** is a web-based application designed to perfo
 - **Educational**: Helps beginners learn how to build a web-based calculator using HTML, CSS, and JavaScript.
 - **Responsive Design**: The calculator is designed to be responsive and works well on various devices.
 
-### How It Works
+### Preview
+https://shresthapal2808.github.io/js-calculator/
 
-The calculator provides a user interface with buttons for digits (0-9) and arithmetic operators (+, -, *, /). Users can input their calculations by clicking these buttons. The result is displayed on the screen when the equals (`=`) button is pressed. The calculator also includes an all-clear (`AC`) button to reset the input.
-<div align="left" style="margin-top: 20px">
-  <img src="https://github.com/shresthapal2808/js-calculator/assets/118591831/b648e538-17d0-4d83-8c4b-3b53dd5d9800" alt="Calculator Screenshot" width="400px">
-</div>
