@@ -11,12 +11,6 @@ The **Basic Arithmetic Calculator** is a web-based application designed to perfo
 - **Multiplication** (`*`): Calculate the product of two numbers.
 - **Division** (`/`): Calculate the quotient of two numbers, with error handling for division by zero.
 
-### Benefits
-
-- **User-Friendly Interface**: A clean and simple interface makes it easy for users to perform calculations.
-- **Educational**: Helps beginners learn how to build a web-based calculator using HTML, CSS, and JavaScript.
-- **Responsive Design**: The calculator is designed to be responsive and works well on various devices.
-
 ### Preview
 https://shresthapal2808.github.io/js-calculator/
 
